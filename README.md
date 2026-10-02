@@ -40,10 +40,7 @@ React, Redux Toolkit, TypeScript, Tailwind CSS, Vite, React Router, Vitest, Fire
 - Redux stores only quantities; the bill is derived with a memoised selector.
 - Product photos are in `public/images`; a drawn image shows if a photo is missing.
 
-## Nice-to-haves
-- Unit tests (Vitest)
-- Saving to Firebase Firestore
-- Tailwind CSS styling
+
 
 ## Deployment
 Not deployed yet. The project is ready for Netlify or Firebase Hosting (build command `npm run build`, output folder `dist`).
